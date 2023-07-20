@@ -18,5 +18,4 @@ python3 main.py -p 2020
 python3 main.py -p 2020 -o /tmp/clipboard.txt
 ```
 
-### buy me a coffee
-[click to buy me a Coffee](https://bmc.link/mohsenparandvar)
+### [buy me a coffee ☕️](https://bmc.link/mohsenparandvar)

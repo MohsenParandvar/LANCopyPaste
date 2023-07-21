@@ -7,6 +7,8 @@
 ```
 python3 main.py
 ```
+open browser on client device and go to ``` {ip}:8000 ```
+example: ``` 192.168.1.5:8000 ```
 
 ### run on custom port:
 ```

@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
     <title>LANCopyPaste</title>
 </head>
 <body style="display:block;">
@@ -17,7 +18,8 @@
                 <textarea name="clipboard" id="clipboard" cols="30" rows="18" placeholder="type or paste on here"></textarea>
             </div>
             <br>
-            <button type="submit">submit</button>
+            <button type="button" onclick="copyToClipboard()">Copy</button>
+            <button type="submit">Paste</button>
         </form>
     </div>
 </body>

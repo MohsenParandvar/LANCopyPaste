@@ -25,7 +25,7 @@ python3 main.py -m /tmp/textfile.txt
 python3 main.py -p 2020
 ```
 
-**set output path to save text file**
+**set output path to save received text file**
 ```
 python3 main.py -p 2020 -o /tmp/clipboard.txt
 ```
